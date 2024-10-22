@@ -12,4 +12,9 @@ git push
 git checkout -b exo
 git status
 git checkout main
+
+git checkout exo
+git add .
+git commit -m
+git rebase main
 ```
